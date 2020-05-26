@@ -1,1 +1,2 @@
-sample text from local repo.
+sample text from local repo. 
+This is a change. 
